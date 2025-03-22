@@ -7,8 +7,7 @@ Esta API fornece funcionalidades para gerenciar usuários. Inclui operações de
 - Node.js
 - Express.js
 - MySQL
-- 
-   ```
+  
 1. Configure o banco de dados no arquivo `.env`:
    ```env
    DB_HOST=localhost
