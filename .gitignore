@@ -18,3 +18,4 @@ Thumbs.db
 # Ignorar pasta de dependências (se houver)
 .idea/
 .vscode/
+.vercel
